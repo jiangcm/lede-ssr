@@ -10,3 +10,5 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+echo  0xDEADBEEF /feeds/helloworld/luci-app-ssr-plus/root/etc/config/google_fu_mode
+git clone https://github.com/Mrbai98/luci-theme-atmaterial.git /package/me

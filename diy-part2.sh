@@ -16,3 +16,4 @@ git clone https://github.com/awesome-openwrt/luci-app-control-timewol.git packag
 git clone https://github.com/awesome-openwrt/luci-app-control-mia.git package/me/luci-app-control-mia
 git clone https://github.com/awesome-openwrt/luci-app-control-weburl.git package/me/luci-app-control-weburl
 git clone https://github.com/awesome-openwrt/luci-app-control-webrestriction.git package/me/luci-app-control-webrestriction
+git clone https://github.com/honwen/luci-app-aliddns.git package/me/luci-app-aliddns
